@@ -42,7 +42,7 @@ def groep(cel_positie, rooster_lijst, uitvoer=None, outer_loop=True):
     kolom = cel_positie[1]
     cijfer = rooster_lijst[rij][kolom]
 
-    if uitvoer is None: # Maakt de lijst uitvoer leeg
+    if uitvoer is None:
         uitvoer = []
 
     if (rij, kolom) not in uitvoer:
