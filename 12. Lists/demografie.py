@@ -6,7 +6,7 @@ class Stad:
             self.naam = naam_stad
             self.inwoners_aantal = inwoners_aantal
 
-    def __repr__(self):
+    def __str__(self):
         return f"{self.naam} heeft {self.inwoners_aantal} inwoners"
 
     def __eq__ (self, other):
@@ -24,10 +24,10 @@ class Demografie:
         self.naam = naam_regio
         self.steden = []
     
-    def __repr__(self):
+    def __str__(self):
         uitvoer = f"Regio: {self.naam}\nTotaal aantal inwoners: {self.bereken_totaal_aantal_inwoners()}"
         for stad in self.steden:
-            uitvoer += f"\n{stad.__repr__()}"
+            uitvoer += f"\n{stad}"
         return uitvoer
     
     def voeg_stad_toe(self, nieuwe_stad):
