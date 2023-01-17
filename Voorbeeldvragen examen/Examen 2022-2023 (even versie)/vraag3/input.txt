@@ -1,0 +1,24 @@
+Hermans,Quinten,Namen,4,61
+Hermans,Quinten,Scheldecross,7,66
+Hermans,Quinten,Waterloo,9,71
+Iserbyt,Eli,Scheldecross,6,64
+Iserbyt,Eli,Waterloo,6,61
+Nys,Thibeau,Scheldecross,8,68
+Nys,Thibeau,Waterloo,5,61
+Pitcock,Tom,Namen,2,59
+Pitcock,Tom,Scheldecross,9,69
+Pitcock,Tom,Waterloo,1,57
+Sweeck,Laurens,Scheldecross,4,61
+Sweeck,Laurens,Waterloo,7,64
+Van Aert,Wout,Namen,3,59
+Van Aert,Wout,Scheldecross,2,59
+Van Aert,Wout,Waterloo,3,63
+van der Haar,Lars,Namen,6,65
+van der Haar,Lars,Scheldecross,3,60
+van der Haar,Lars,Waterloo,2,59
+van der Poel,Mathieu,Namen,1,58
+van der Poel,Mathieu,Scheldecross,1,58
+van der Poel,Mathieu,Waterloo,4,69
+Vanthourenhout,Michael,Namen,5,63
+Vanthourenhout,Michael,Scheldecross,5,62
+Vanthourenhout,Michael,Waterloo,8,71
