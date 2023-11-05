@@ -15,3 +15,4 @@ print(nieuwe_lijst)
 # Oplossing 2: met gebruik van set
 # lijst = [1, 3, 7,  2, 5, 6, 3, 8, 5, 7, 6, 1]
 # print(sorted(list(set(lijst))))
+print(lijst)
